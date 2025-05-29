@@ -1,5 +1,5 @@
 # TMDB Movies Dataset Analysis 
-### Udacity Become a Data Analyst Nanodegree | Project 2
+### Udacity Become a Data Analyst
 
 | Contents 											 	   	|
 | -------- 											 	   	|
